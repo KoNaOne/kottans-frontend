@@ -1,3 +1,3 @@
 # Hi Kottans!
-I'm Konstantin.
+My name Konstantin.
 And I'm glad to be here!
